@@ -16,10 +16,18 @@ temporal trends, and potential relationships between earthquake characteristics.
 
 * Reproducibility: Download the excel file and name it datos-sismicos.xlsx, then place it in data/raw
 
+### Shapefiles
+
 - Peru Department Boundaries (Shapefile)  
   https://www.datosabiertos.gob.pe/dataset/limites-departamentales
 
 * Reproducibility: Extract the files and paste the folder in data/raw
+
+- Peru Geographical region (Shapefile)  
+  https://peru.mapbiomas.org/en/capas/
+
+- World Oceans (Shapefile)  
+  https://techgeo.org/download-world-oceans-in-shapefile-geojson-and-kml-format/
 
 ## Process
 --

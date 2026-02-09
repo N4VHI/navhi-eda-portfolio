@@ -13,8 +13,13 @@ temporal trends, and potential relationships between earthquake characteristics.
 ## Data Sources
 - IGP Historical Earthquake Repository  
   https://ultimosismo.igp.gob.pe/repositorio/datos-sismicos
+
+* Reproducibility: Download the excel file and name it datos-sismicos.xlsx, then place it in data/raw
+
 - Peru Department Boundaries (Shapefile)  
   https://www.datosabiertos.gob.pe/dataset/limites-departamentales
+
+* Reproducibility: Extract the files and paste the folder in data/raw
 
 ## Process
 --

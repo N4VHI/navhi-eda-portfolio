@@ -54,8 +54,6 @@ Each project follows a structured workflow including data understanding, cleanin
 ```
 navhi-eda-portfolio
 │ 
-├── assets/
-│ 
 ├── Projects/
 │   ├── Project_01_IGP/
 │   └── Template/
